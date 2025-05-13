@@ -7,7 +7,6 @@
 [![Last Commit](https://img.shields.io/github/last-commit/nileshhazra/Python?style=flat-square)](https://github.com/yourusername/project-name/commits)
 
 
-## 📖 About
 
 A short and clear description of your project. What does it do? Why did you build it? What problem does it solve?
 
