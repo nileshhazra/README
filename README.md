@@ -1,4 +1,4 @@
-# 🌻 Project Name
+# Project Name
 
 [![License](https://img.shields.io/github/license/nileshhazra/README?style=flat-square)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=flat-square)](https://github.com/yourusername/project-name/stargazers)
@@ -15,7 +15,7 @@ A short and clear description of your project. What does it do? Why did you buil
 
 ---
 
-## ✨ Features
+## Features
 
 - Feature 1
 - Feature 2
@@ -24,7 +24,7 @@ A short and clear description of your project. What does it do? Why did you buil
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology | Description |
 |------------|-------------|
@@ -35,7 +35,7 @@ A short and clear description of your project. What does it do? Why did you buil
 
 ---
 
-## 🧑‍💻 Getting Started
+## Getting Started
 
 ### Prerequisites
 
