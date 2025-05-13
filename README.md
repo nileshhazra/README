@@ -1,9 +1,9 @@
 # 🌻 Project Name
 
-[![License](https://img.shields.io/github/license/nileshhazra/Python?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/nileshhazra/project-name?style=flat-square)](https://github.com/yourusername/project-name/stargazers)
-[![Forks](https://img.shields.io/github/forks/nileshhazra/project-name?style=flat-square)](https://github.com/yourusername/project-name/fork)
-[![Issues](https://img.shields.io/github/issues/nileshhazra/project-name?style=flat-square)](https://github.com/yourusername/project-name/issues)
+[![License](https://img.shields.io/github/license/nileshhazra/README?style=flat-square)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=flat-square)](https://github.com/yourusername/project-name/stargazers)
+[![Forks](https://img.shields.io/github/forks/freeCodeCamp/freeCodeCamp?style=flat-square)](https://github.com/yourusername/project-name/fork)
+[![Issues](https://img.shields.io/github/issues/freeCodeCamp/freeCodeCamp?style=flat-square)](https://github.com/yourusername/project-name/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/nileshhazra/Python?style=flat-square)](https://github.com/yourusername/project-name/commits)
 
 
