@@ -75,6 +75,6 @@ project-name/
 ```
 
 ### License
-Distributed under the MIT License. See LICENSE.md for more information.
+Distributed under the MIT License. See LICENSE File for more information.
 
 
